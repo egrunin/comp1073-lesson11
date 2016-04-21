@@ -1,13 +1,13 @@
 {
-  "name": "COMP1073-Lesson11",
-  "homepage": "https://github.com/GeorgianCollege/COMP1073-Lesson11",
+  "name": "lesson11",
+  "homepage": "https://github.com/egrunin/comp1073-lesson11",
   "authors": [
-    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+    "Jack <evgeni.grunin@mygeorgian.ca>"
   ],
   "description": "",
   "main": "",
-  "moduleType": [],
   "license": "MIT",
+  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
@@ -17,9 +17,8 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^2.2.2",
+    "jquery": "^2.2.3",
     "bootstrap": "^3.3.6",
-    "font-awesome": "^4.5.0",
-    "jquery-ui": "jqueryui#^1.11.4"
+    "font-awesome": "^4.6.1"
   }
 }
